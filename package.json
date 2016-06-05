@@ -1,0 +1,22 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "First nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"First test project\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyh18ctc/FirstNode.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ouyang Hui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouyh18ctc/FirstNode/issues"
+  },
+  "homepage": "https://github.com/ouyh18ctc/FirstNode#readme"
+}
